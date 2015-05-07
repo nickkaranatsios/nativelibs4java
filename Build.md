@@ -1,0 +1,1 @@
+[Instructions are here](http://code.google.com/p/javacl/wiki/Build)

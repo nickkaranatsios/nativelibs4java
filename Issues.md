@@ -1,0 +1,1 @@
+`NativeLibs4Java`'s Issue Tracker [migrated to GitHub Issues](https://github.com/ochafik/nativelibs4java/issues?sort=created&direction=desc&state=open).
